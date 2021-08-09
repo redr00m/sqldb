@@ -1,2 +1,2 @@
 # sqldb
-Generic SQL access libradry
+Generic SQL access library
